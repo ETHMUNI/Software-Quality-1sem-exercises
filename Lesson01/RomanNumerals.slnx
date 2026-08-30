@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RomanNumerals.Tests/RomanNumerals.Tests.csproj" />
+  <Project Path="RomanNumerals/RomanNumerals.csproj" />
+</Solution>

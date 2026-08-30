@@ -1,0 +1,12 @@
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson01/RomanNumerals/bin/Debug/net10.0/RomanNumerals.deps.json
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson01/RomanNumerals/bin/Debug/net10.0/RomanNumerals.dll
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson01/RomanNumerals/bin/Debug/net10.0/RomanNumerals.pdb
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson01/RomanNumerals/obj/Debug/net10.0/RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson01/RomanNumerals/obj/Debug/net10.0/RomanNumerals.AssemblyInfoInputs.cache
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson01/RomanNumerals/obj/Debug/net10.0/RomanNumerals.AssemblyInfo.cs
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson01/RomanNumerals/obj/Debug/net10.0/RomanNumerals.csproj.CoreCompileInputs.cache
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson01/RomanNumerals/obj/Debug/net10.0/RomanNumerals.sourcelink.json
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson01/RomanNumerals/obj/Debug/net10.0/RomanNumerals.dll
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson01/RomanNumerals/obj/Debug/net10.0/refint/RomanNumerals.dll
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson01/RomanNumerals/obj/Debug/net10.0/RomanNumerals.pdb
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson01/RomanNumerals/obj/Debug/net10.0/ref/RomanNumerals.dll
