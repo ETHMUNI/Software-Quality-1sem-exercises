@@ -1,0 +1,12 @@
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson02/Ex05-Eshop/bin/Debug/net10.0/Ex05-Eshop.deps.json
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson02/Ex05-Eshop/bin/Debug/net10.0/Ex05-Eshop.dll
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson02/Ex05-Eshop/bin/Debug/net10.0/Ex05-Eshop.pdb
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson02/Ex05-Eshop/obj/Debug/net10.0/Ex05-Eshop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson02/Ex05-Eshop/obj/Debug/net10.0/Ex05-Eshop.AssemblyInfoInputs.cache
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson02/Ex05-Eshop/obj/Debug/net10.0/Ex05-Eshop.AssemblyInfo.cs
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson02/Ex05-Eshop/obj/Debug/net10.0/Ex05-Eshop.csproj.CoreCompileInputs.cache
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson02/Ex05-Eshop/obj/Debug/net10.0/Ex05-Eshop.sourcelink.json
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson02/Ex05-Eshop/obj/Debug/net10.0/Ex05-Eshop.dll
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson02/Ex05-Eshop/obj/Debug/net10.0/refint/Ex05-Eshop.dll
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson02/Ex05-Eshop/obj/Debug/net10.0/Ex05-Eshop.pdb
+/Users/Muni/Projects/Software-Quality-1sem-exercises/Lesson02/Ex05-Eshop/obj/Debug/net10.0/ref/Ex05-Eshop.dll
